@@ -151,3 +151,4 @@ console.log(fee);
 const numn = null;
 const fee2 = numn && "何か設定されました";
 console.log(fee2);
+console.log(numn);
